@@ -2,8 +2,8 @@ package com.example.leetcode;
 
 public class ValidPartitionInArray {
     public static void main(String[] args) {
-        int[] nums = new int[5];
-         nums =new int[]{1,1,2,3,4};
+        int[] nums = new int[]{1,1,2,3,4};
+
 
          ValidPartitionInArray validPartitionInArray = new ValidPartitionInArray();
         System.out.println(validPartitionInArray.validPartition(nums));
