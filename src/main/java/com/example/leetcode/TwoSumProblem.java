@@ -7,10 +7,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 @SpringBootApplication
-public class LeetcodeApplication {
+public class TwoSumProblem {
 
     public static void main(String[] args) {
-        SpringApplication.run(LeetcodeApplication.class, args);
+        SpringApplication.run(TwoSumProblem.class, args);
     }
         public int[] twoSum(int[] nums, int target){
 
