@@ -25,8 +25,6 @@ public class LengthOfLongestSubstring {
     }
 
     public static void main(String[] args) {
-    int x = 15;
-    int y = 25;
     LengthOfLongestSubstring addTwoNumbers = new LengthOfLongestSubstring();
         System.out.println(addTwoNumbers.lengthOfLongestSubstring("apple gigant bananas"));
     }

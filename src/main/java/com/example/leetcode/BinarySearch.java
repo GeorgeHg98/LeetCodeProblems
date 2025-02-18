@@ -1,7 +1,5 @@
 package com.example.leetcode;
 
-import java.util.HashMap;
-
 public class BinarySearch {
     public static void main(String[] args) {
         BinarySearch binarySearch = new BinarySearch();
